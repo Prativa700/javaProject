@@ -3,7 +3,11 @@ The System allows users to input an Aadhaar number and retrieve the correspondin
 
  Project:
    Pan.java                       # Pan entity class
+   
    Aadhaar.java                   # Aadhaar entity class
+   
    AadhaarService.java            # Service class for Aadhaar lookup
+   
    PanService.java                # Service class for PAN lookup
+   
    PanAadhaarMatcherApp.java      # Main application
